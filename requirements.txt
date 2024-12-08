@@ -1,0 +1,6 @@
+pyjokes
+wikipedia
+pyttsx3
+SpeechRecognition
+google-generativeai
+
